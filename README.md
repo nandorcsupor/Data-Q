@@ -1,5 +1,3 @@
-# DQC [BACKEND] Tech Challenge
-
 ## About the data file
 
 The dataset `../data/data.csv` contains official records of CO2 emissions data by various cars of different features.
