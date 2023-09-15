@@ -30,3 +30,6 @@ Please write a python tool to analyze the data quality across different dimensio
   - check_duplicates
   - check_missing_values
   - check_outliers
+
+# Run the code
+python main.py --path ./data/data.csv
